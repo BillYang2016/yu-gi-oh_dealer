@@ -150,6 +150,8 @@ int main() {
 	Dfs(1, 0);
 
 	cout<< cnt << " / " << total << " = " << 1.0 * cnt / total << endl;
+	
+	getchar();
 
 	return 0;
 }
